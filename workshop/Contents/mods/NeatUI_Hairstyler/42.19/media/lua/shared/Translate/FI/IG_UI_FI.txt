@@ -1,0 +1,5 @@
+IG_UI_FI = {
+	IGUI_IHM_avatar_size = "Avatarin koko",
+	IGUI_IHM_modal_rows = "Rivit",
+	IGUI_IHM_modal_cols = "Sarakkeet",
+}

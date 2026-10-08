@@ -1,0 +1,5 @@
+IG_UI_DA = {
+	IGUI_IHM_avatar_size = "Avatarstørrelse",
+	IGUI_IHM_modal_rows = "Rækker",
+	IGUI_IHM_modal_cols = "Kolonner",
+}

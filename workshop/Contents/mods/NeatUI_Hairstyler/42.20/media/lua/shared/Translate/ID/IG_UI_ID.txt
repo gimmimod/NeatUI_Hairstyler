@@ -1,0 +1,5 @@
+IG_UI_ID = {
+	IGUI_IHM_avatar_size = "Ukuran avatar",
+	IGUI_IHM_modal_rows = "Baris",
+	IGUI_IHM_modal_cols = "Kolom",
+}

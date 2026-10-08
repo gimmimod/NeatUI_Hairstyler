@@ -1,0 +1,5 @@
+IG_UI_CA = {
+	IGUI_IHM_avatar_size = "Mida de l'avatar",
+	IGUI_IHM_modal_rows = "Files",
+	IGUI_IHM_modal_cols = "Columnes",
+}

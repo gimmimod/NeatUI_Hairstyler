@@ -1,0 +1,13 @@
+name=NeatUI Hairstyler
+id=NeatUI_Hairstyler
+poster=poster.png
+icon=icon.png
+modversion=1.0.1
+description=NeatUI Hairstyler: hair & beard grid menu in full NeatUI / Neat Rocco style. Based on Improved Hair Menu. Rounded Neat panels, grid preview, source filter and simple Rows/Columns controls. Requires NeatUI Framework. <LINE> Localized in all official game languages.
+loadModBefore=ihm_picker
+loadModAfter=SPNCC,SPNCCMINI,SPNCCMINISP,NeatUI_Framework,Neat_Rocco
+require=\NeatUI_Framework
+incompatible=\improvedhairmenubd42,\improvedhairmenu,\improvedhairmenubuild42,\EvenMoreHairColors
+versionMin=42.19
+versionMax=42.19
+author=Gimmi

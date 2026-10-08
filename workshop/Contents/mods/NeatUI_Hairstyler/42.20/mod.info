@@ -1,0 +1,11 @@
+name=NeatUI Hairstyler
+id=NeatUI_Hairstyler
+poster=poster.png
+icon=icon.png
+modversion=1.0.0 (STABLE)
+description=NeatUI Hairstyler: hair & beard grid menu in full NeatUI / Neat Rocco style, based on Improved Hair Menu. <LINE> Every hairstyle and beard is shown on your own character in a grid. Turn a preview with the mouse to see it from the side or the back, see the hair without the hat, and pick any hair colour you like instead of the handful the game offers. <LINE> Drag the corner of the grid to resize it and the previews reflow as you go; if you would rather set numbers, turn "Resize by dragging" off in Options > Mods and the Rows and Columns counters come back to the CONTROLS window. <LINE> In character creation the menus open from Neat Rocco's scissors and razor buttons; in game, from the usual cut-hair and trim-beard actions. Picking a style keeps the window open, so you can try several in a row and close it with its X when you are done. <LINE> Requires NeatUI Framework. Controller supported. Localized in all 26 official game languages.
+loadModAfter=SPNCC,SPNCCMINI,SPNCCMINISP,NeatUI_Framework,Neat_Rocco
+require=\NeatUI_Framework
+incompatible=\improvedhairmenubd42,\improvedhairmenu,\improvedhairmenubuild42,\EvenMoreHairColors
+versionMin=42.20
+author=Gimmi

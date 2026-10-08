@@ -1,0 +1,5 @@
+IG_UI_DE = {
+	IGUI_IHM_avatar_size = "Avatargröße",
+	IGUI_IHM_modal_rows = "Reihen",
+	IGUI_IHM_modal_cols = "Spalten",
+}

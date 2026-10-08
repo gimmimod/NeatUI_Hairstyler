@@ -1,0 +1,5 @@
+IG_UI_HU = {
+	IGUI_IHM_avatar_size = "Avatár mérete",
+	IGUI_IHM_modal_rows = "Sorok",
+	IGUI_IHM_modal_cols = "Oszlopok",
+}

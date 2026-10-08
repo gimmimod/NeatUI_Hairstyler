@@ -1,0 +1,3 @@
+ContextMenu_ES = {
+	ContextMenu_TieHair = "Atar el pelo",
+}
