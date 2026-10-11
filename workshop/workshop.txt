@@ -1,6 +1,6 @@
 version=1
 id=3760534563
-title=NeatUI Hairstyler [42.20]
+title=NeatUI Hairstyler [42.21]
 tags=Build 42;Interface;Multiplayer;QoL
 visibility=public
 description=[h1]💇 NeatUI Hairstyler[/h1]
